@@ -247,7 +247,7 @@
 
 
 
-   /* responsive de baners */
+   /* baners */
 
 
   .contenedor{
@@ -281,6 +281,8 @@
       font-size: 20px;
       margin: 3%;
   }
+  /* baner responsive */
+
   
   @media (max-width: 700px){
    .contenedor{
